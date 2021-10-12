@@ -49,3 +49,4 @@ High with another column so the algorithm can act as linear regression.</br>
 * We will use *Linear Regression* when a correlation greater than or equal to an absolute value of 0.95, will be considered as high.</br>
 * We will use *Z Score* when a correlation lower than 0.5, will be considered weak.</br>
 * We will use *Welzl* when a correlation is between 0.5 to 0.95.
+## Architecture 
